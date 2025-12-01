@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Circle of Karma",
+  "base_artist": "MAAS、FUZI",
+  "createdAt": "2025-12-01T04:53:03.186284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circle of Karma",
+      "artist": "FUZI feat. MAAS",
+      "has_synced": true,
+      "path": "select/01_Circle_of_Karma_FUZI_feat._MAAS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circle of Karma",
+      "artist": "Fuzi",
+      "has_synced": true,
+      "path": "select/02_Circle_of_Karma_Fuzi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Circle of Karma",
+      "artist": "Ancestry",
+      "has_synced": false,
+      "path": "select/03_Circle_of_Karma_Ancestry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Circle of Karma",
+      "artist": "Fuzi & MAAS",
+      "has_synced": true,
+      "path": "select/04_Circle_of_Karma_Fuzi_&_MAAS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Circle of Karma",
+      "artist": "FUZI, MAAS",
+      "has_synced": false,
+      "path": "select/pl_01_Circle_of_Karma_FUZI,_MAAS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Circle of Karma",
+      "artist": "FUZI, MAAS",
+      "has_synced": false,
+      "path": "select/pl_02_Circle_of_Karma_FUZI,_MAAS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Circle of Karma",
+      "artist": "FUZI, MAAS",
+      "has_synced": false,
+      "path": "select/pl_03_Circle_of_Karma_FUZI,_MAAS.txt"
+    }
+  ]
+}
